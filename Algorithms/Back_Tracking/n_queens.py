@@ -1,3 +1,8 @@
+'''
+Place n queens in such a manner on a n*n chessboard
+that no 2 queens attack eachother
+'''
+
 
 n = int(input("Enter the no. of queens : "))
 
