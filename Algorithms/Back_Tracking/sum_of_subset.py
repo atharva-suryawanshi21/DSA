@@ -1,3 +1,8 @@
+'''
+Given n distinct positive numbers, 
+find all combinations of these numbers whose sum are m
+'''
+
 w = [10, 20, 30, 40]
 n = len(w)
 x = [0]*n
